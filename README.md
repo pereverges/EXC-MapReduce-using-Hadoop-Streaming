@@ -6,4 +6,4 @@ In this project we will use MapReduce, because helps us easly write parallel app
   - Combiner(string key, iterator values)
   - Reducer(string key, iterator values)
   
-![MapReduce example](http://url/to/img.png)
+![MapReduce example](https://github.com/pereverges/EXC-MapReduce-using-Hadoop-Streaming/blob/master/MapReduceExample.png)
