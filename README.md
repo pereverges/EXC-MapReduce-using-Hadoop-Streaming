@@ -17,5 +17,7 @@ For more informations of how MapReduce works read the [MapReducePaper](https://g
 We have to do four tasks using the IMBD database as the data input to the MapReduce. The data we have looks like:
 ![IMBD data](https://github.com/pereverges/EXC-MapReduce-using-Hadoop-Streaming/blob/master/IMDBdata.png)
 
-### Task1
+### Task 1
+Calculate the average maximum and minimum runtime duration for all titles per movie genre.
 
+```[avg runtime:float | max runtime:int | min runtime:int | genre:str]```
